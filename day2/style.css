@@ -52,14 +52,14 @@ body {
   left: 0;
   transform: translateY(-50%);
   height: 4px;
-  width: 50%;
+  width: 0%;
   z-index: -1;
   transition: 0.4s ease;
 }
 
 .circle {
   background-color: white;
-  color: #999999;
+  color: #999;
   border-radius: 50%;
   height: 30px;
   width: 30px;
